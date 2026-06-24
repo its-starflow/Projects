@@ -30,7 +30,7 @@ Aero:Notify()         -- Notification popup
 ## Method 1 — Loadstring
 
 ```lua
-local Aero = loadstring(game:HttpGet("https://raw.githubusercontent.com/its-starflow/Aero/Core/Source"))()
+local Aero = loadstring(game:HttpGet("https://raw.githubusercontent.com/itsstarflow/Aero/Core/Source"))()
 ```
 
 ---
